@@ -1,0 +1,5 @@
+tabla,columna,metrica,valor_actual,umbral,estado
+clientes,pais,completitud,100.0,95,OK
+clientes,criticidad,exactitud,100.0,95,OK
+versiones_software,contiene_sunburst,exactitud,100.0,95,OK
+versiones_software,fechas,consistencia,75.0,95,ALERTA

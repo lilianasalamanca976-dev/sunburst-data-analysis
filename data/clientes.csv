@@ -1,0 +1,51 @@
+cliente_id,nombre_organizacion,tipo_org,pais,sector,criticidad
+1,"Myers, Stevens and Kramer",Gobierno,Micronesia,Tecnología,Baja
+2,Arias-Santiago,Proveedor TI,Guernsey,Finanzas,Alta
+3,Clark-Carpenter,Empresa Privada,Libyan Arab Jamahiriya,Telecomunicaciones,Alta
+4,Ruiz-Wood,Universidad,Belarus,Tecnología,Baja
+5,Brown Inc,Entidad Financiera,Djibouti,Tecnología,Alta
+6,"Williams, Rice and Cox",Gobierno,Iceland,Finanzas,Alta
+7,Sullivan-Johnson,Universidad,Guatemala,Defensa,Alta
+8,Stewart-Bryant,Universidad,El Salvador,Finanzas,Baja
+9,"Daniels, Berg and Long",Universidad,Andorra,Educación,Alta
+10,Lewis-Luna,Entidad Financiera,Svalbard & Jan Mayen Islands,Defensa,Media
+11,Wade-Ruiz,Gobierno,Monaco,Finanzas,Baja
+12,Singleton-Taylor,Entidad Financiera,Poland,Salud,Media
+13,Rogers-Shepherd,Empresa Privada,Solomon Islands,Finanzas,Media
+14,Lozano-Tran,Gobierno,Burkina Faso,Tecnología,Media
+15,Underwood Ltd,Gobierno,Russian Federation,Salud,Media
+16,"Flores, Bright and Dickerson",Universidad,United States of America,Salud,Alta
+17,Smith-Robinson,Entidad Financiera,Niue,Defensa,Alta
+18,Davis-Martinez,Entidad Financiera,Falkland Islands (Malvinas),Tecnología,Baja
+19,Smith and Sons,Proveedor TI,Somalia,Telecomunicaciones,Baja
+20,Diaz-Mullen,Proveedor TI,Tunisia,Defensa,Alta
+21,"Lester, Wells and Henderson",Gobierno,North Macedonia,Tecnología,Baja
+22,Hines-Hunter,Empresa Privada,Turks and Caicos Islands,Salud,Alta
+23,Glenn-Robbins,Empresa Privada,Bangladesh,Tecnología,Media
+24,Ortega-Ball,Proveedor TI,Palau,Educación,Baja
+25,"Thomas, Sanchez and Guzman",Proveedor TI,Marshall Islands,Finanzas,Media
+26,Dean-Mills,Proveedor TI,Malawi,Finanzas,Baja
+27,Navarro-Frazier,Proveedor TI,Samoa,Telecomunicaciones,Baja
+28,"Thompson, Sharp and Oneill",Gobierno,Vanuatu,Defensa,Baja
+29,Walker-Keller,Empresa Privada,Yemen,Defensa,Baja
+30,"Phelps, Castro and Dennis",Empresa Privada,Suriname,Finanzas,Media
+31,Clark-Martin,Entidad Financiera,Iraq,Salud,Baja
+32,"Martinez, Campbell and Stevenson",Universidad,Trinidad and Tobago,Finanzas,Baja
+33,Smith-Gregory,Proveedor TI,Puerto Rico,Tecnología,Alta
+34,Dickerson-Collier,Gobierno,Gambia,Salud,Media
+35,Pugh Ltd,Proveedor TI,Czech Republic,Tecnología,Alta
+36,"Sweeney, Strickland and Rivera",Universidad,Liechtenstein,Telecomunicaciones,Media
+37,Khan and Sons,Empresa Privada,Djibouti,Telecomunicaciones,Media
+38,Diaz-Clark,Entidad Financiera,Guatemala,Telecomunicaciones,Media
+39,Jackson-Reyes,Empresa Privada,Myanmar,Salud,Alta
+40,Jones Group,Empresa Privada,Ghana,Telecomunicaciones,Baja
+41,Spencer-Castro,Universidad,Cambodia,Salud,Baja
+42,King PLC,Universidad,Gibraltar,Educación,Baja
+43,Holmes PLC,Entidad Financiera,Palau,Salud,Alta
+44,"Nelson, Cline and Johnson",Empresa Privada,Montserrat,Defensa,Media
+45,Mann-Wise,Gobierno,Northern Mariana Islands,Tecnología,Alta
+46,"Stewart, Carlson and Taylor",Empresa Privada,Swaziland,Telecomunicaciones,Alta
+47,Miller-Jordan,Entidad Financiera,Andorra,Defensa,Alta
+48,Murphy Group,Entidad Financiera,Comoros,Educación,Baja
+49,Hurst-Cohen,Entidad Financiera,Guadeloupe,Defensa,Media
+50,Wise Group,Universidad,Guernsey,Tecnología,Baja
